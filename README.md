@@ -52,10 +52,9 @@
 ### Краткая информация о данных
 - Предоставлен [DataSet](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
 - Предоставлен [ноутбук-шаблон](https://lms.skillfactory.ru/assets/courseware/v1/1577d067038f8073197105c174f05822/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
-- В файле Project-1_result.ipynb расположено решение проекта;
-- В файле Sketch.ipynb червновик, а также здесь расположен код по решению заданий, не входящих в ноутбук проекта (тестирование)
+- В файле ProjectHH.ipynb расположено решение проекта;
 - DataSet не сохранен на GitHub из-за ограничений размерности, он доступен по ссылке выше.
-- В дирректории Plotly лежат сохраненные графики в формате HTML
+- В папке Graphs лежат сохраненные графики в формате HTML
   
 :arrow_up:[к оглавлению](https://github.com/MrMonkeyfeeder/ProjectHeadHunter/tree/master/README.md#Оглавление)
 
@@ -73,17 +72,13 @@
    1. Все задания проекта решены;
    2. Файл с кодом размещен в репозитории, открывается;
    3. Страница репозитария оформлена в соответствии с требованиями;
-   4. Код несколько раз отчитан на соответствие стандарту PEP8;
-   5. Воспроизводимость кода проверена в VS Code и Spider (Anaconda 3).
+   4. Код проверен на соответствие стандарту PEP8;
+   5. Воспроизводимость кода проверена в VS Code.
 
 :arrow_up:[к оглавлению](https://github.com/MrMonkeyfeeder/ProjectHeadHunter/tree/master/README.md#Оглавление)
 
 
 ### Выводы:  
-DataScience интересная наука.
-
-Логика может привести Вас от пункта А к пункту Б, а воображение — куда угодно.
-
-@Альберт Эйнштейн
+Очень интересно окунуться в исследование и работу с данными, особенно когда хоть немного понимаешь как это делать! Продолжаем глубже погружаться в мир DataScience!
 
 :arrow_up:[к оглавлению](https://github.com/MrMonkeyfeeder/ProjectHeadHunter/tree/master/README.md#Оглавление)
